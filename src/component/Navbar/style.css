@@ -1,0 +1,37 @@
+.navbar-nav {
+  margin-left: 0%;
+  display: flex;
+  
+  
+  
+}
+
+.navbar-expand-lg{
+
+  background-color: #f1f3ff !important;
+  
+}
+
+
+.nav-link {
+  color: #000;
+  font-family: Arial;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  margin-left: 30px;
+}
+
+
+.navbar-toggler {
+  color: #f1f3ff;
+}
+ 
+
+.offcanvas {
+  --bs-offcanvas-width: 50vw;
+ }
+
+
+ 

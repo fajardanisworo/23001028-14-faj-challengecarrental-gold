@@ -1,0 +1,63 @@
+.banner .container  {
+  margin: 16px 0;
+}
+
+.carousel-item .card {
+  background-color: #f1f3ff;
+  border: none;
+}
+
+.testt h3 {
+  color: #000;
+
+  text-align: center;
+  font-family: Arial;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 36px; /* 150% */
+}
+
+
+
+.carousel-item img {
+  transition: all 0.5s;
+}
+
+.carousel-item img:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+.starimg {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  margin-right: 0px;
+}
+
+.caraf img {
+  width: 80px;
+  height: 80px;
+  flex-shrink: 0;
+}
+
+.cardpe{
+  color: #000;
+  max-width: 415px;
+font-family: Arial;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: 20px; /* 142.857% */
+}
+
+@media screen and (max-width: 576px) {
+
+
+  .banner .container  {
+    margin: 16px 0;
+  }
+
+  
+}
